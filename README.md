@@ -18,6 +18,17 @@ To start the development server, run:
   *npm run dev*
 Then, open a web browser and navigate to *http://localhost:3000* to view the application.
 
+## Screenshots <br>
+1. Main Page View (>768 px) -
+   <img width="960" alt="image" src="https://github.com/itsayushi19/Go-India-NextJS/assets/119295218/ee249855-297f-449d-9205-b85a9c483371">
+
+2. Side Bar Opened -
+  <img width="960" alt="image" src="https://github.com/itsayushi19/Go-India-NextJS/assets/119295218/1174694a-3576-4ea3-a697-ae51ba25a7b3">
+
+4. Mobile View (<768 px) -
+   <img width="360" alt="image" src="https://github.com/itsayushi19/Go-India-NextJS/assets/119295218/4e522e3c-9583-405f-b7d3-2efa0b18aa7a">
+
+
 ## Notes <br>
 1. Tailwind CSS is utilized for styling and ensuring responsiveness across various screen sizes.
 2. Dummy data is hardcoded to simulate content population.
